@@ -12,3 +12,4 @@ describe('alura busca cursos', () => {
           .should('contain', 'Formação Java e Orientação a Objetos');
     })
 })
+// nova branch da cinthia
