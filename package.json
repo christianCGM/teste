@@ -1,0 +1,16 @@
+{
+  "name": "novo-projeto-atualizado",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Christian Carvalho",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.3.0",
+    "cypress-mochawesome-reporter": "^3.2.3",
+    "mochawesome": "^7.1.3"
+   }
+  }
